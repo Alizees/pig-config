@@ -64,6 +64,7 @@ fdfs:
   file-host: http://127.0.0.1:22121/
   tracker-list:
     - 192.168.13.130:22122
+fileHomePath：D:\\sldj_file
     
 # 七牛OSS 配置
 # qiniu:
