@@ -49,6 +49,7 @@ ignore:
     - /mobile/**
     - /auth/**
     - /admin/code/*
+    - /admin/tools/**
     - /admin/smsCode/*
     - /admin/user/info
     - /admin/menu/userMenu
