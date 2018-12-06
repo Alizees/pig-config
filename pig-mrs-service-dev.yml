@@ -61,9 +61,10 @@ mybatis-plus:
     map-underscore-to-camel-case: true
     cache-enabled: true
 fdfs:
-  file-host: http://127.0.0.1:22121/
+  file-host: http://127.0.0.1:9999
   tracker-list:
-    - 192.168.13.130:22122
+    - 127.0.0.1:9999
+
     
 # 七牛OSS 配置
 # qiniu:
